@@ -1,5 +1,5 @@
 {
-  "name": "miau",
+  "name": "hazdit",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "dependencies": {
@@ -28,6 +28,7 @@
     "react-native-worklets": "0.8.3"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.5.3",
     "@types/react": "~19.2.2",
     "typescript": "~6.0.3"
   },
