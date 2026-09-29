@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
 	},
 	containerList: {
 		flex: 1,
-		// flexDirection: "column",
+		flexDirection: "column",
 		paddingHorizontal: Spacing.three,
 		paddingTop: Spacing.three,
 		// alignItems: "center",
